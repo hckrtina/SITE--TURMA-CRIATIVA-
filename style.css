@@ -1,3 +1,14 @@
-body{
+.cabeçalho-imagem{
     background-color: #424E61;
+    color:rgb(255, 204, 117);
+    display: flex;
+    justify-content: space-around;
+}
+
+.cabeçalho-imagem{
+   width: 20%;
+}
+
+.cabeçalho - lista - item{
+    display:inline- block
 }
